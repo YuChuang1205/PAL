@@ -124,7 +124,8 @@ We consider that an excellent learning process should be from easy to hard and t
 
 ## Citation
 
-If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **PAL** if it benefits your project. <br>
+If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **PAL** if it benefits your project. <br>  
+
 BibTeX reference is as follows.
 ```
 @misc{yu2024easyhardprogressiveactive,
