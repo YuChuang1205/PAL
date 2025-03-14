@@ -130,7 +130,7 @@ BibTeX reference is as follows.
 ```
 @misc{yu2024easyhardprogressiveactive,
       title={From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision}, 
-      author={Chuang Yu and Jinmiao Zhao and Yunpeng Liu and Sicheng Zhao and Xiangyu Yue},
+      author={Chuang Yu and Jinmiao Zhao and Yunpeng Liu and Sicheng Zhao and Yimian Dai and Xiangyu Yue},
       year={2024},
       eprint={2412.11154},
       archivePrefix={arXiv},
@@ -141,7 +141,7 @@ BibTeX reference is as follows.
 
 word reference is as follows.
 ```
-Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. arXiv preprint arXiv:2412.11154, 2024.
+Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. arXiv preprint arXiv:2412.11154, 2024.
 ```
  
 
