@@ -1,4 +1,4 @@
-## The official complete code for paper "From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision" [[Paper/arXiv](https://arxiv.org/abs/2412.11154)] [[知乎解读](https://zhuanlan.zhihu.com/p/1924197990941302819)] [Accepted by ICCV2025]
+## The official complete code for paper "From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision" [[Paper/arXiv](https://arxiv.org/abs/2412.11154)] [[知乎](https://zhuanlan.zhihu.com/p/1924197990941302819)] [Accepted by ICCV2025]
 
 <!--
 <div align="center">
