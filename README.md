@@ -148,4 +148,4 @@ Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. Fro
 
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
 2. "MSDA-Net" demo: [[Link](https://github.com/YuChuang1205/MSDA-Net)]
-3. My latest "FDEP Framework" project code: [[Link](https://github.com/YuChuang1205/FDEP-Framework)]
+3. My "FDEP Framework" project code: [[Link](https://github.com/YuChuang1205/FDEP-Framework)]
