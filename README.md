@@ -2,7 +2,7 @@
 
 <!--
 <div align="center">
-In this project demo, we have integrated multiple SIRST detection networks (ACM, ALC, MLCL-Net, ALCL-Net, DNANet, GGL-Net, UIUNet, MSDA-Net), label forms (Full supervision, Coarse single-point supervision, Centroid single-point supervision), and datasets (SIRST, NUDT, IRSTD-1K and SIRST3). At the same time, more networks and functions can be integrated into the project later. We hope we can contribute to the development of this field.
+In this project demo, we have integrated multiple SIRST detection networks (ACM, ALC, MLCL-Net, ALCL-Net, DNANet, GGL-Net, UIUNet, MSDA-Net), label forms (**Full supervision**, **Coarse single-point supervision**, **Centroid single-point supervision**), and datasets (SIRST, NUDT, IRSTD-1K and SIRST3). At the same time, more networks and functions can be integrated into the project later. We hope we can contribute to the development of this field.
 </div><br>
 -->
 
