@@ -121,7 +121,6 @@ We consider that an excellent learning process should be from easy to hard and t
 </p>  
 
 
-
 ## Citation
 
 If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **PAL** if it benefits your project. <br>  
@@ -141,12 +140,15 @@ word reference is as follows.
 ```
 Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 2588--2598, 2025.
 ```
- 
+## 微信交流群
+🚑🚑 为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
 
+<p align="center">
+  <img src="imgs/PAL_wechat.jpg" alt="Main results" width="400"/></br>
+</p> 
 
 ## Other link
 
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
 2. "MSDA-Net" demo (TGRS2025): [[Link](https://github.com/YuChuang1205/MSDA-Net)]
 3. My "FDEP Framework" project code: [[Link](https://github.com/YuChuang1205/FDEP-Framework)]
-4. 微信交流群: [[Link](https://github.com/YuChuang1205/PAL/blob/main/README_EN_WeChat.md)]
