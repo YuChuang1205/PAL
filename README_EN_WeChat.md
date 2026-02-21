@@ -6,9 +6,9 @@
 [**IRSTD-1k**](https://ieeexplore.ieee.org/document/9880295) and [**SIRST3**](https://arxiv.org/pdf/2304.01484)). 另外，未来还可以将更多网络和功能整合到项目中。我们希望能够为该领域的发展做出一点点贡献。
 
 
-为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
+#### 为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
 
 <p align="center">
-  <img src="imgs/PAL_wechat.jpg" alt="Main results" width="600"/></br>
+  <img src="imgs/PAL_wechat.jpg" alt="Main results" width="400"/></br>
 </p>  
 
