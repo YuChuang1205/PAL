@@ -9,6 +9,6 @@
 为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
 
 <p align="center">
-  <img src="imgs/PAL_wechat.PNG" alt="Main results" width="600"/></br>
+  <img src="imgs/PAL_wechat.jpg" alt="Main results" width="600"/></br>
 </p>  
 
