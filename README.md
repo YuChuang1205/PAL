@@ -140,7 +140,7 @@ word reference is as follows.
 ```
 Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 2588--2598, 2025.
 ```
-## 微信交流群
+## 微信交流群（2026-02-21）
 🚑🚑 为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
 
 <p align="center">
