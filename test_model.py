@@ -36,7 +36,7 @@ def make_dir(path):
 
 
 ##############################################
-choose_model = 'MSDA'  ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet]
+choose_model = 'MSDA'  ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet, MSHNet, GSFANet, SDSNet, MMLNet]
 model_func = access_model(choose_model)
 choose_dataset = 'SIRST3'  ## choose dataset in [SIRST3, IRSTD_1K_point, NUDT_SIRST_1_1_point, SIRST_1_1_point_new]
 test_dir_name = '********'  ## Replace with the folder name where the corresponding test model is located, such as 'MSDA__SIRST3__masks_coarse__2024-12-13_13-30-35'.  Since the timestamps are unique, you need the folder name you generated.
@@ -113,6 +113,12 @@ def test_pred(img, net, batch_size, patch_size):
                 preds_list.append(batch_preds[-1])
             elif choose_model == 'SFDTNet':
                 preds_list.append(batch_preds[-1])
+            elif choose_model == 'MSHNet':
+                preds_list.append(batch_preds[1])
+            elif choose_model == 'GSFANet':
+                preds_list.append(batch_preds[-1])
+            elif choose_model == 'SDSNet':
+                preds_list.append(batch_preds[-1])
             else:
                 preds_list.append(batch_preds)
         # Concatenate all the patch predictions
@@ -137,7 +143,12 @@ def test_pred(img, net, batch_size, patch_size):
                 preds = preds[-1]
             # 去除 SFDTNet 内部填充区域，恢复到原始尺寸
             preds = preds[:, :, :ori_h, :ori_w]
-
+        elif choose_model == 'MSHNet':
+            preds = preds[1]
+        elif choose_model == 'GSFANet':
+            preds = preds[-1]
+        elif choose_model == 'SDSNet':
+            preds = preds[-1]
     return preds
 
 
@@ -203,6 +214,8 @@ def main():
 
     if choose_model == 'DNA' or choose_model == 'UIU' or choose_model == 'SCTransNet':
         model = model_func(mode='train').to(DEVICE)
+    elif choose_model == 'SDSNet':
+        model = model_func(n_channels=3, n_classes=1, mode='train', deepsuper=True).to(DEVICE)
     else:
         model = model_func().to(DEVICE)
 
