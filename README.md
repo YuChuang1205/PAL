@@ -55,6 +55,7 @@ Comparison of different methods on the SIRST3 dataset. <i>CNN Full</i>, <i>CNN C
 </div><br>
 
 ## 🔥 News 
+-2026.08 🌸🌸 We have adapted four more methods (**GSFANet**, **MMLNet**, **MSHNet**, **SDSNet**).  
 -2026.07 🌸🌸 We **continue to support** more networks and **welcome pull requests** for integrating your networks.  
 -2026.07 🌸🌸 We have adapted five more methods (**AGPCNet**, **HDNet**, **ISNet**, **SCTransNet**, **SFDTNet**).   
 -2026.02 🌟🌟 We have created a **[WeChat group](https://github.com/YuChuang1205/PAL/blob/main/README_EN_WeChat.md)** for PAL discussion, support, and extension.   
