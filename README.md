@@ -42,6 +42,8 @@
   <a href="https://youtu.be/C7FUAGd0c6Q"><strong>YouTube</strong></a>
   &nbsp;&nbsp;
   <a href="https://github.com/YuChuang1205/PAL/blob/main/README_EN_WeChat.md"><strong>微信交流群</strong></a>
+  &nbsp;&nbsp;
+  <a href="#poster"><strong>Poster</strong></a>
 </p>
 
 <p align="center">
@@ -207,6 +209,8 @@ word reference is as follows.
 ```
 Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 2588--2598, 2025.
 ```
+
+<a id="poster"></a>
 ## 💥 Poster 
 <p align="center">
   <img src="imgs/ICCV-PAL-poster.png" alt="Main results" width="1000"/></br>
