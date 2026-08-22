@@ -36,7 +36,7 @@ def make_dir(path):
 
 
 ##############################################
-choose_model = 'MSDA'  ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet, MSHNet, GSFANet, SDSNet, MMLNet]
+choose_model = 'MSDA'  ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, LRNet, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet, MSHNet, GSFANet, SDSNet, MMLNet]
 model_func = access_model(choose_model)
 choose_dataset = 'SIRST3'  ## choose dataset in [SIRST3, IRSTD_1K_point, NUDT_SIRST_1_1_point, SIRST_1_1_point_new]
 test_dir_name = '********'  ## Replace with the folder name where the corresponding test model is located, such as 'MSDA__SIRST3__masks_coarse__2024-12-13_13-30-35'.  Since the timestamps are unique, you need the folder name you generated.

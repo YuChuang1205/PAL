@@ -36,7 +36,7 @@ def access_model(choose_model):
     return model_func
 
 ##############################################
-choose_model = 'MSDA'   ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet, MSHNet, GSFANet, SDSNet, MMLNet]
+choose_model = 'MSDA'   ##choose model in [ACM, ALC, MLCL, ALCL, DNA, GGL, UIU, MSDA, LRNet, AGPCNet, ISNet, SCTransNet, HDNet, SFDTNet, MSHNet, GSFANet, SDSNet, MMLNet]
 model_func = access_model(choose_model)
 choose_dataset = 'SIRST3'  ## choose dataset in [SIRST3, IRSTD_1K_point, NUDT_SIRST_1_1_point, SIRST_1_1_point_new]
 choose_dataset_type = 'masks_coarse' ## choose dataset_type in [mask, masks_coarse, masks_centroid]   "mask": "Full supervision"; "masks_centroid": "Centroid point supervision"; "mask_coarse": "Coarse point supervision"
