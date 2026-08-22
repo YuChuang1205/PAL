@@ -61,7 +61,7 @@ Comparison of different methods on the SIRST3 dataset. <i>CNN Full</i>, <i>CNN C
 </div><br>
 
 ## 🔥 News 
--2026.08 🌸🌸 We have adapted one method ([**LR-Net**](https://arxiv.org/abs/2408.02780)). Thanks to [**Dr. Jinmiao Zhao**](https://scholar.google.com/citations?user=3cBa6r4AAAAJ&hl=zh-CN) .    
+-2026.08 🌸🌸 We have adapted one method ([**LR-Net**](https://arxiv.org/abs/2408.02780)). Thanks to [**Dr. Jinmiao Zhao**](https://scholar.google.com/citations?user=3cBa6r4AAAAJ&hl=zh-CN).    
 -2026.08 🌸🌸 We have adapted four more methods ([**GSFANet**](https://ieeexplore.ieee.org/abstract/document/11133697), [**MMLNet**](https://ieeexplore.ieee.org/document/10830282), [**MSHNet**](https://arxiv.org/abs/2403.19366), [**SDSNet**](https://arxiv.org/abs/2506.06042)).  
 -2026.07 🌸🌸 We **continue to support** more networks and **welcome pull requests** for integrating your networks.  
 -2026.07 🌸🌸 We have adapted five more methods ([**AGPCNet**](https://arxiv.org/abs/2111.03580), [**HDNet**](https://ieeexplore.ieee.org/document/11017756), [**ISNet**](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.html), [**SCTransNet**](https://arxiv.org/abs/2401.15583), [**SFDTNet**](https://ieeexplore.ieee.org/abstract/document/11082338)).   
