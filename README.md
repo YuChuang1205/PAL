@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html"><strong>Accepted by ICCV2025</strong></a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_From_Easy_to_Hard_Progressive_Active_Learning_Framework_for_Infrared_ICCV_2025_paper.html"><strong>🎉 Accepted by ICCV2025 🎉</strong></a>
 </p>
 
 <p align="center">
