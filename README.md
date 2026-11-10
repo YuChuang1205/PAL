@@ -6,7 +6,7 @@
   <p>
     <a href="https://yuchuang1205.github.io/" target="_blank">Chuang Yu</a><sup>1,2,5</sup>,&nbsp
     <a href="https://scholar.google.com/citations?user=3cBa6r4AAAAJ&hl=zh-CN" target="_blank">Jinmiao Zhao</a><sup>1,2</sup>,&nbsp
-    <a href="https://yuchuang1205.github.io/" target="_blank">Yunpeng Liu</a><sup>1*</sup>,&nbsp
+    <a href=#>Yunpeng Liu</a><sup>1*</sup>,&nbsp
     <a href="https://scholar.google.com/citations?user=LJiQRJIAAAAJ&hl=zh-CN" target="_blank">Sicheng Zhao</a><sup>3</sup>,
     <br>
     <a href="https://scholar.google.com/citations?user=y5Ov6VAAAAAJ&hl=zh-CN&oi=ao" target="_blank">Yimian Dai</a><sup>4</sup>,&nbsp
