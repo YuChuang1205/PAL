@@ -225,7 +225,7 @@ Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, Yimian Dai, Xiangyu Yue. Fro
   <img src="imgs/ICCV-PAL-poster.png" alt="Main results" width="1000"/></br>
 </p> 
 
-## 微信交流群（2026-02-21）
+## 微信交流群
 🚑🚑 为了方便解决大家在使用以及扩展本PAL开源框架中存在的问题，我建立了一个微信群聊，如下：(**若二维码过期，可以在github的问题区留言，我将及时更新~~~**)
 
 <p align="center">
